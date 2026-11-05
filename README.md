@@ -1,27 +1,43 @@
-# Hi, I'm Aravind Kumar 👋
+<div align="center">
 
-### Software Developer | Full-Stack Engineering | AI & Agentic Systems
+# Hey, I'm Aravind Kumar 👋
 
-I build web applications and product experiences, with a focus on frontend engineering, backend APIs, application architecture, and AI-powered workflows.
+### Software Developer · Full-Stack Engineering · AI & Agentic Systems
 
-I have experience working on SaaS products, **referral and loyalty platforms**, Shopify integrations, analytics systems, and **Owliver**, an operational assistant involving frontend experiences, backend APIs, and agent/skill-based architecture.
+Building useful products — from polished interfaces and reliable APIs to context-aware AI workflows.
+
+<p>
+  <a href="https://www.linkedin.com/in/aravind-kumar-r-dev5500/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:aravindrps75@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/Aravindkumar5500">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+![Profile views](https://komarev.com/ghpvc/?username=Aravindkumar5500&style=flat-square&color=2563EB&label=PROFILE+VIEWS)
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+## ✦ About Me
 
-- 💼 Currently working as a **Software Developer at Nearle Technologies**.
-- 🎁 Worked on referral and loyalty features, including reward workflows, campaign configurations, and merchant-facing experiences.
-- 🛍️ Built Shopify extensions and integrations supporting referral and loyalty experiences.
-- 📊 Worked on referral performance analytics across Online, POS, and All-channel reporting.
-- 🤖 Worked on **Owliver**, covering assistant interfaces, backend/API workflows, and agent/skill runtime architecture.
-- 🧩 Interested in designing systems that connect application context, capabilities, data sources, and AI workflows.
-- 📍 Based in Coimbatore, India.
+I'm a software developer focused on building complete web products and intelligent application experiences. I enjoy moving across the stack — understanding the user experience, shaping APIs, structuring data flows, and exploring how AI agents can make software more useful.
 
-## 🧰 Tech Stack
+- 💼 **Currently:** Software Developer at **Nearle Technologies**
+- 🧭 **Previously:** Worked at **Tenext Technologies**, contributing to **Friendbuy**
+- 🧱 **Engineering:** React, Next.js, TypeScript, backend APIs, and application architecture
+- 🤖 **AI interests:** LLM applications, agent/skill architecture, RAG, and tool-driven workflows
+- 📍 **Location:** Coimbatore, India
 
-**Frontend**
-<br />
+## ✧ Tech Stack
+
+**Frontend & UI**
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -30,8 +46,8 @@ I have experience working on SaaS products, **referral and loyalty platforms**, 
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=000)
 ![Three.js](https://img.shields.io/badge/Three.js-000?style=flat-square&logo=threedotjs&logoColor=fff)
 
-**Backend & Databases**
-<br />
+**Backend & Data**
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=fff)
 ![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=fff)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat-square)
@@ -39,111 +55,109 @@ I have experience working on SaaS products, **referral and loyalty platforms**, 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=fff)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=fff)
 
-**Cloud, Analytics & Tools**
-<br />
+**Cloud, Analytics & Developer Tools**
+
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=fff)
 ![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=elastic&logoColor=fff)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=fff)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=fff)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=fff)
 
-**AI & Agent Architecture**
-<br />
+**AI & Agentic Systems**
+
 ![LLM Applications](https://img.shields.io/badge/LLM_Applications-412991?style=flat-square)
 ![AI Agents](https://img.shields.io/badge/AI_Agents-6B4EFF?style=flat-square)
 ![Agent Workflows](https://img.shields.io/badge/Agent_Workflows-0A7EA4?style=flat-square)
 ![RAG](https://img.shields.io/badge/RAG-0A7EA4?style=flat-square)
 
-## 🚀 Selected Work
+---
 
-### Friendbuy — Referral & Loyalty SaaS Platform
+## ⌘ Selected Work
 
-Previously worked on Friendbuy while at **Tenext Technologies**, contributing to merchant-facing product features and engineering workflows for this referral and loyalty platform.
+A few products and engineering areas I've contributed to.
+
+### 01 · Owliver — Context-Aware Operational Assistant
+
+Worked across the assistant experience, backend/API workflows, and agent-driven capability architecture.
+
+- **Frontend:** Built page-aware assistant experiences for Schedule, Order Management, and Control Center, including the docked panel, conversation UI, composer, and contextual prompts.
+- **Backend:** Worked with PostgreSQL-backed APIs for agent and skill definitions, assistant suggestions, and runtime interfaces.
+- **Agent architecture:** Contributed to an agent-to-skill execution model connecting:
+
+  `Agent → Skill → Capability / Data Resolver → PostgreSQL → LLM`
+
+**Core areas:** Full-stack engineering · Backend APIs · PostgreSQL · Agent/skill architecture · Context-aware AI
+
+### 02 · Loyaly — Retail Intelligence & Loyalty Platform
+
+Worked on merchant-facing and customer-facing dashboard experiences for a retail technology and loyalty ecosystem.
+
+- **Merchant Dashboard:** Retail operations, analytics, business insights, customer engagement, and loyalty campaign workflows.
+- **Customer Dashboard:** Digital wallet, LYTs rewards, personalized offers, and customer engagement experiences.
+- **AI & retail intelligence ecosystem:**
+  - **Behavision** — Customer movement and footfall intelligence.
+  - **SpendSense** — Spending patterns and purchase intelligence.
+  - **Dyscount** — Personalized discount intelligence.
+  - **Identiq** — Customer identity, loyalty, and engagement intelligence.
+- **Full-stack:** React, Next.js, TypeScript, authentication, session management, protected routes, and backend API integration.
+
+**Core areas:** Merchant OS · Customer experience · Digital wallet · Loyalty systems · Retail intelligence
+
+### 03 · Friendbuy — Referral & Loyalty SaaS
+
+Previously worked on Friendbuy while at **Tenext Technologies**. Contributed to merchant-facing product features and engineering workflows for this referral and loyalty platform.
 
 - Developed Shopify checkout extensions and referral experiences using React and TypeScript.
 - Built a Shopify Thank You page announcement bar and modal experience to surface referral widgets.
-- Worked on referral and loyalty reward workflows, including reward-related email merge variables and campaign configuration behavior.
-- Implemented channel-based analytics filtering for **Online, POS, and All-channel** referral performance reporting.
-- Worked on backend APIs, validation, and analytics integrations supporting merchant reporting and referral workflows.
+- Worked on reward workflows, campaign configuration, and reward-related email merge variables.
+- Implemented analytics filtering for **Online, POS, and All-channel** referral performance reporting.
+- Worked on backend APIs, validation, and analytics integrations supporting merchant reporting.
 
-**Focus:** Shopify integrations · Referral and loyalty workflows · Reward systems · SaaS product engineering · Analytics
+**Core areas:** Shopify · Referral workflows · Reward systems · SaaS engineering · Analytics
 
-### Owliver — Context-Aware Operational Assistant
-
-Worked across the Owliver assistant experience, including frontend, backend/API workflows, and the architecture for agent-driven capabilities.
-
-**Frontend & Product Experience**
-- Built page-aware assistant experiences for **Schedule**, **Order Management**, and **Control Center**.
-- Developed the docked assistant panel, conversation interface, message composer, and contextual suggested prompts.
-- Connected the assistant experience to relevant page context and operational workflows.
-
-**Backend & API Engineering**
-- Worked with the backend route and API surface supporting assistant workflows.
-- Worked on PostgreSQL-backed APIs for managing **agent definitions** and **skill definitions**.
-- Worked with the assistant suggestions endpoint and the backend runtime interfaces used by the application.
-- Reviewed and exercised backend routes to validate the runtime and API behavior.
-
-**Agent & AI Architecture**
-- Worked on an agent-to-skill execution model, where agents use skills to access defined capabilities.
-- Contributed to the runtime architecture connecting **Agent → Skill → Capability/Data Resolver → PostgreSQL → LLM layer**.
-- Worked with capability and data-resolution concepts for retrieving application-specific context.
-- Helped shape how assistant skills, sources, periods, and operational context are represented across the application and runtime.
-
-**Focus:** Full-stack engineering · Backend APIs · PostgreSQL · Agent/skill architecture · Context-aware AI workflows · Assistant UX
-
-### Loyaly — Retail Intelligence & Loyalty Platform
-
-Worked on Loyaly, a retail technology platform connecting merchants and customers through digital experiences, loyalty programs, rewards, and retail intelligence.
-
-**Merchant Dashboard**
-- Developed merchant-facing dashboard experiences for managing retail operations and customer engagement.
-- Worked on analytics, business insights, and merchant workflow interfaces.
-- Contributed to loyalty campaign and rewards management experiences.
-
-**Customer Dashboard**
-- Developed customer-facing dashboard experiences for accessing loyalty features and rewards.
-- Worked on digital wallet and LYTs reward experiences.
-- Contributed to customer engagement features, personalized offers, and reward experiences.
-
-**AI & Retail Intelligence Ecosystem**
-- **Behavision** — Customer movement and footfall intelligence.
-- **SpendSense** — Spending patterns and purchase intelligence.
-- **Dyscount** — Personalized discount intelligence.
-- **Identiq** — Customer identity, loyalty, and engagement intelligence.
-
-**Full-Stack Engineering**
-- Worked with React, Next.js, and TypeScript application architecture.
-- Contributed to frontend architecture, authentication, session management, and protected routes.
-- Worked on backend API integration and application data workflows.
-
-**Focus:** Full-Stack Development · Merchant Dashboard · Customer Dashboard · Retail Technology · Digital Wallet · Loyalty Systems · AI-Powered Retail Intelligence
-
-### Doormile Website
+### 04 · Doormile Website
 
 A modern business website built with Next.js and TypeScript, featuring responsive layouts, GSAP-powered interactions, and Three.js visual experiences.
 
-**Focus:** Frontend architecture · Motion design · 3D web experiences · Performance
+**Core areas:** Frontend architecture · Motion design · 3D web experiences · Performance
 
-### Nearle Website
+### 05 · Nearle Website
 
 A responsive web experience built with reusable frontend components, modern animations, and Three.js-powered visual elements.
 
-**Focus:** React/Next.js ecosystem · Reusable UI · Interactive experiences
-
-## 🎯 Current Focus
-
-- Strengthening full-stack engineering and system design fundamentals.
-- Building reliable backend services, APIs, and data workflows.
-- Deepening my understanding of LLM application architecture, agent orchestration, and tool execution.
-- Exploring embeddings, Retrieval-Augmented Generation (RAG), and evaluation of AI workflows.
-- Building practical AI products with a focus on security, reliability, and production readiness.
-
-## 🤝 Connect With Me
-
-- **LinkedIn:** [Aravind Kumar](https://www.linkedin.com/in/aravind-kumar-r-dev5500/)
-- **GitHub:** [@Aravindkumar5500](https://github.com/Aravindkumar5500)
-- **Email:** [aravindrps75@gmail.com](mailto:aravindrps75@gmail.com)
+**Core areas:** React / Next.js · Reusable UI · Interactive experiences
 
 ---
 
-*I enjoy building complete software systems — from user experiences and backend APIs to intelligent, context-aware workflows.*
+## ◉ GitHub at a Glance
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Aravindkumar5500&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="Aravind's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aravindkumar5500&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
+</div>
+
+## ⟡ Currently Exploring
+
+- Stronger system design and scalable backend architecture.
+- Reliable APIs, data workflows, and production-ready application patterns.
+- LLM application architecture, agent orchestration, and tool execution.
+- Embeddings, Retrieval-Augmented Generation (RAG), and AI workflow evaluation.
+- Building AI products with security, reliability, and practical user value.
+
+---
+
+## Let's Connect
+
+<div align="center">
+
+**Have an interesting product or engineering problem? Let's connect.**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aravind_Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aravind-kumar-r-dev5500/)
+[![GitHub](https://img.shields.io/badge/GitHub-Aravindkumar5500-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aravindkumar5500)
+[![Email](https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aravindrps75@gmail.com)
+
+<br />
+
+*Building thoughtfully. Learning continuously. Shipping useful things.*
+
+</div>
