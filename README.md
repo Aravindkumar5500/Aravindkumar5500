@@ -4,15 +4,16 @@
 
 I build web applications and product experiences, with a focus on frontend engineering, backend APIs, application architecture, and AI-powered workflows.
 
-I have experience working on SaaS products, Shopify integrations, referral workflows, analytics systems, and **Owliver**, an operational assistant involving frontend experiences, backend APIs, and agent/skill-based architecture.
+I have experience working on SaaS products, **referral and loyalty platforms**, Shopify integrations, analytics systems, and **Owliver**, an operational assistant involving frontend experiences, backend APIs, and agent/skill-based architecture.
 
 ---
 
 ## 👨‍💻 About Me
 
 - 💼 Software Developer at **Tenext Technologies**, working with **Friendbuy** — a referral and loyalty SaaS platform.
-- 🛍️ Built Shopify extensions, merchant-facing experiences, and referral workflows.
-- 📊 Worked on analytics features for Online, POS, and All-channel reporting.
+- 🎁 Worked on referral and loyalty features, including reward workflows, campaign configurations, and merchant-facing experiences.
+- 🛍️ Built Shopify extensions and integrations supporting referral and loyalty experiences.
+- 📊 Worked on referral performance analytics across Online, POS, and All-channel reporting.
 - 🤖 Worked on **Owliver**, covering assistant interfaces, backend/API workflows, and agent/skill runtime architecture.
 - 🧩 Interested in designing systems that connect application context, capabilities, data sources, and AI workflows.
 - 📍 Based in Coimbatore, India.
@@ -54,6 +55,18 @@ I have experience working on SaaS products, Shopify integrations, referral workf
 ![RAG](https://img.shields.io/badge/RAG-0A7EA4?style=flat-square)
 
 ## 🚀 Selected Work
+
+### Friendbuy — Referral & Loyalty SaaS Platform
+
+Contributed to merchant-facing product features and engineering workflows for a referral and loyalty platform.
+
+- Developed Shopify checkout extensions and referral experiences using React and TypeScript.
+- Built a Shopify Thank You page announcement bar and modal experience to surface referral widgets.
+- Worked on referral and loyalty reward workflows, including reward-related email merge variables and campaign configuration behavior.
+- Implemented channel-based analytics filtering for **Online, POS, and All-channel** referral performance reporting.
+- Worked on backend APIs, validation, and analytics integrations supporting merchant reporting and referral workflows.
+
+**Focus:** Shopify integrations · Referral and loyalty workflows · Reward systems · SaaS product engineering · Analytics
 
 ### Owliver — Context-Aware Operational Assistant
 
