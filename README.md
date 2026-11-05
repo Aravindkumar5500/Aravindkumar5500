@@ -13,8 +13,9 @@ I currently work on SaaS product development, including Shopify integrations, re
 - 💼 Software Developer at **Tenext Technologies**, working on **Friendbuy** — a referral and loyalty SaaS platform.
 - 🛍️ Experience building Shopify extensions, merchant-facing experiences, and referral workflows.
 - 📊 Worked on analytics features for Online, POS, and All-channel reporting.
+- 🤖 Built **Owliver**, a context-aware operational assistant experience with page-specific assistance and conversational workflows.
 - 🎨 Interested in modern frontend engineering, interactive interfaces, and performance.
-- 🤖 Currently exploring **AI application development** and the engineering behind production-ready LLM-powered products.
+- 🚀 Currently exploring **AI application development** and the engineering behind production-ready LLM-powered products.
 - 📍 Based in Coimbatore, India.
 
 ## 🧰 Tech Stack
@@ -54,12 +55,26 @@ I currently work on SaaS product development, including Shopify integrations, re
 
 ## 🚀 Selected Work
 
+### Owliver — Context-Aware Operational Assistant
+
+Built an assistant experience designed to understand the user's current workspace and provide relevant, page-specific help.
+
+- Created contextual assistant experiences for **Schedule**, **Order Management**, and **Control Center**.
+- Added suggested prompts and conversational responses tailored to the active page.
+- Designed a responsive, docked assistant panel with a dedicated conversation area and message composer.
+- Integrated local page context and sample data into the assistant experience.
+- Explored the assistant's skills, context, routes, and API architecture across operational workflows.
+
+**Focus:** AI assistant UX · Context-aware workflows · Conversational interfaces · Product architecture
+
 ### Doormile Website
+
 A modern business website built with Next.js and TypeScript, featuring responsive layouts, GSAP-powered interactions, and Three.js visual experiences.
 
 **Focus:** Frontend architecture · Motion design · 3D web experiences · Performance
 
 ### Nearle Website
+
 A responsive web experience built with reusable frontend components, modern animations, and Three.js-powered visual elements.
 
 **Focus:** React/Next.js ecosystem · Reusable UI · Interactive experiences
