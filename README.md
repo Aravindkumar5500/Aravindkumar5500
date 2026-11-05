@@ -1,21 +1,20 @@
 # Hi, I'm Aravind Kumar 👋
 
-### Software Developer | Full-Stack Engineering | Exploring AI Engineering
+### Software Developer | Full-Stack Engineering | AI & Agentic Systems
 
-I build web applications and product experiences, with a focus on clean frontend architecture, reliable backend integrations, and practical solutions to real business problems.
+I build web applications and product experiences, with a focus on frontend engineering, backend APIs, application architecture, and AI-powered workflows.
 
-I currently work on SaaS product development, including Shopify integrations, referral workflows, and analytics experiences. I'm also expanding into AI engineering and learning to build intelligent applications with LLMs, retrieval systems, and AI-powered workflows.
+I have experience working on SaaS products, Shopify integrations, referral workflows, analytics systems, and **Owliver**, an operational assistant involving frontend experiences, backend APIs, and agent/skill-based architecture.
 
 ---
 
 ## 👨‍💻 About Me
 
-- 💼 Software Developer at **Tenext Technologies**, working on **Friendbuy** — a referral and loyalty SaaS platform.
-- 🛍️ Experience building Shopify extensions, merchant-facing experiences, and referral workflows.
+- 💼 Software Developer at **Tenext Technologies**, working with **Friendbuy** — a referral and loyalty SaaS platform.
+- 🛍️ Built Shopify extensions, merchant-facing experiences, and referral workflows.
 - 📊 Worked on analytics features for Online, POS, and All-channel reporting.
-- 🖥️ Developed the **Owliver assistant UI**, creating page-specific interface experiences for operational workflows.
-- 🎨 Interested in modern frontend engineering, interactive interfaces, and performance.
-- 🚀 Currently learning **AI application development**, including LLM integrations, retrieval systems, and AI-powered workflows.
+- 🤖 Worked on **Owliver**, covering assistant interfaces, backend/API workflows, and agent/skill runtime architecture.
+- 🧩 Interested in designing systems that connect application context, capabilities, data sources, and AI workflows.
 - 📍 Based in Coimbatore, India.
 
 ## 🧰 Tech Stack
@@ -34,7 +33,8 @@ I currently work on SaaS product development, including Shopify integrations, re
 <br />
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=fff)
 ![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=fff)
-![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=fff)
+![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=fff)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=fff)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=fff)
 
@@ -46,27 +46,37 @@ I currently work on SaaS product development, including Shopify integrations, re
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=fff)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=fff)
 
-**Currently Learning — AI Engineering**
+**AI & Agent Architecture**
 <br />
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=fff)
-![LLMs](https://img.shields.io/badge/LLM_Applications-412991?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG-0A7EA4?style=flat-square)
+![LLM Applications](https://img.shields.io/badge/LLM_Applications-412991?style=flat-square)
 ![AI Agents](https://img.shields.io/badge/AI_Agents-6B4EFF?style=flat-square)
+![Agent Workflows](https://img.shields.io/badge/Agent_Workflows-0A7EA4?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-0A7EA4?style=flat-square)
 
 ## 🚀 Selected Work
 
-### Owliver — Operational Assistant UI
+### Owliver — Context-Aware Operational Assistant
 
-Worked on the frontend interface for Owliver, an assistant experience within an operational application.
+Worked across the Owliver assistant experience, including frontend, backend/API workflows, and the architecture for agent-driven capabilities.
 
-- Built page-specific assistant UI experiences for **Schedule**, **Order Management**, and **Control Center**.
-- Designed a docked assistant panel with a conversation layout, message composer, and suggested prompt elements.
-- Created responsive layouts and UI states to fit different operational screens.
-- Focused on making the assistant interface consistent with the surrounding application experience.
+**Frontend & Product Experience**
+- Built page-aware assistant experiences for **Schedule**, **Order Management**, and **Control Center**.
+- Developed the docked assistant panel, conversation interface, message composer, and contextual suggested prompts.
+- Connected the assistant experience to relevant page context and operational workflows.
 
-**Scope:** Frontend UI development · React components · Assistant UX · Responsive design
+**Backend & API Engineering**
+- Worked with the backend route and API surface supporting assistant workflows.
+- Worked on PostgreSQL-backed APIs for managing **agent definitions** and **skill definitions**.
+- Worked with the assistant suggestions endpoint and the backend runtime interfaces used by the application.
+- Reviewed and exercised backend routes to validate the runtime and API behavior.
 
-*Note: My contribution to Owliver described here is focused on the UI/frontend experience; it does not claim implementation of the AI agent, LLM integration, or backend services.*
+**Agent & AI Architecture**
+- Worked on an agent-to-skill execution model, where agents use skills to access defined capabilities.
+- Contributed to the runtime architecture connecting **Agent → Skill → Capability/Data Resolver → PostgreSQL → LLM layer**.
+- Worked with capability and data-resolution concepts for retrieving application-specific context.
+- Helped shape how assistant skills, sources, periods, and operational context are represented across the application and runtime.
+
+**Focus:** Full-stack engineering · Backend APIs · PostgreSQL · Agent/skill architecture · Context-aware AI workflows · Assistant UX
 
 ### Doormile Website
 
@@ -83,10 +93,10 @@ A responsive web experience built with reusable frontend components, modern anim
 ## 🎯 Current Focus
 
 - Strengthening full-stack engineering and system design fundamentals.
-- Building backend services with clean APIs and reliable data flows.
-- Learning Python for AI application development.
-- Exploring LLM APIs, embeddings, Retrieval-Augmented Generation (RAG), and tool calling.
-- Building practical AI projects with a focus on evaluation, security, and production readiness.
+- Building reliable backend services, APIs, and data workflows.
+- Deepening my understanding of LLM application architecture, agent orchestration, and tool execution.
+- Exploring embeddings, Retrieval-Augmented Generation (RAG), and evaluation of AI workflows.
+- Building practical AI products with a focus on security, reliability, and production readiness.
 
 ## 🤝 Connect With Me
 
@@ -96,4 +106,4 @@ A responsive web experience built with reusable frontend components, modern anim
 
 ---
 
-*I enjoy turning ideas into useful products and continuously improving the way I build software.*
+*I enjoy building complete software systems — from user experiences and backend APIs to intelligent, context-aware workflows.*
