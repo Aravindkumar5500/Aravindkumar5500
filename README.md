@@ -13,9 +13,9 @@ I currently work on SaaS product development, including Shopify integrations, re
 - 💼 Software Developer at **Tenext Technologies**, working on **Friendbuy** — a referral and loyalty SaaS platform.
 - 🛍️ Experience building Shopify extensions, merchant-facing experiences, and referral workflows.
 - 📊 Worked on analytics features for Online, POS, and All-channel reporting.
-- 🤖 Built **Owliver**, a context-aware operational assistant experience with page-specific assistance and conversational workflows.
+- 🖥️ Developed the **Owliver assistant UI**, creating page-specific interface experiences for operational workflows.
 - 🎨 Interested in modern frontend engineering, interactive interfaces, and performance.
-- 🚀 Currently exploring **AI application development** and the engineering behind production-ready LLM-powered products.
+- 🚀 Currently learning **AI application development**, including LLM integrations, retrieval systems, and AI-powered workflows.
 - 📍 Based in Coimbatore, India.
 
 ## 🧰 Tech Stack
@@ -46,7 +46,7 @@ I currently work on SaaS product development, including Shopify integrations, re
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=fff)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=fff)
 
-**Currently Exploring — AI Engineering**
+**Currently Learning — AI Engineering**
 <br />
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=fff)
 ![LLMs](https://img.shields.io/badge/LLM_Applications-412991?style=flat-square)
@@ -55,17 +55,18 @@ I currently work on SaaS product development, including Shopify integrations, re
 
 ## 🚀 Selected Work
 
-### Owliver — Context-Aware Operational Assistant
+### Owliver — Operational Assistant UI
 
-Built an assistant experience designed to understand the user's current workspace and provide relevant, page-specific help.
+Worked on the frontend interface for Owliver, an assistant experience within an operational application.
 
-- Created contextual assistant experiences for **Schedule**, **Order Management**, and **Control Center**.
-- Added suggested prompts and conversational responses tailored to the active page.
-- Designed a responsive, docked assistant panel with a dedicated conversation area and message composer.
-- Integrated local page context and sample data into the assistant experience.
-- Explored the assistant's skills, context, routes, and API architecture across operational workflows.
+- Built page-specific assistant UI experiences for **Schedule**, **Order Management**, and **Control Center**.
+- Designed a docked assistant panel with a conversation layout, message composer, and suggested prompt elements.
+- Created responsive layouts and UI states to fit different operational screens.
+- Focused on making the assistant interface consistent with the surrounding application experience.
 
-**Focus:** AI assistant UX · Context-aware workflows · Conversational interfaces · Product architecture
+**Scope:** Frontend UI development · React components · Assistant UX · Responsive design
+
+*Note: My contribution to Owliver described here is focused on the UI/frontend experience; it does not claim implementation of the AI agent, LLM integration, or backend services.*
 
 ### Doormile Website
 
