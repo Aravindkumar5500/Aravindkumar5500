@@ -10,7 +10,7 @@ I have experience working on SaaS products, **referral and loyalty platforms**, 
 
 ## 👨‍💻 About Me
 
-- 💼 Software Developer at **Nearle Technologies**, working with **Friendbuy** — a referral and loyalty SaaS platform.
+- 💼 Currently working as a **Software Developer at Nearle Technologies**.
 - 🎁 Worked on referral and loyalty features, including reward workflows, campaign configurations, and merchant-facing experiences.
 - 🛍️ Built Shopify extensions and integrations supporting referral and loyalty experiences.
 - 📊 Worked on referral performance analytics across Online, POS, and All-channel reporting.
@@ -58,7 +58,7 @@ I have experience working on SaaS products, **referral and loyalty platforms**, 
 
 ### Friendbuy — Referral & Loyalty SaaS Platform
 
-Contributed to merchant-facing product features and engineering workflows for a referral and loyalty platform.
+Previously worked on Friendbuy while at **Tenext Technologies**, contributing to merchant-facing product features and engineering workflows for this referral and loyalty platform.
 
 - Developed Shopify checkout extensions and referral experiences using React and TypeScript.
 - Built a Shopify Thank You page announcement bar and modal experience to surface referral widgets.
