@@ -91,6 +91,33 @@ Worked across the Owliver assistant experience, including frontend, backend/API 
 
 **Focus:** Full-stack engineering · Backend APIs · PostgreSQL · Agent/skill architecture · Context-aware AI workflows · Assistant UX
 
+### Loyaly — Retail Intelligence & Loyalty Platform
+
+Worked on Loyaly, a retail technology platform connecting merchants and customers through digital experiences, loyalty programs, rewards, and retail intelligence.
+
+**Merchant Dashboard**
+- Developed merchant-facing dashboard experiences for managing retail operations and customer engagement.
+- Worked on analytics, business insights, and merchant workflow interfaces.
+- Contributed to loyalty campaign and rewards management experiences.
+
+**Customer Dashboard**
+- Developed customer-facing dashboard experiences for accessing loyalty features and rewards.
+- Worked on digital wallet and LYTs reward experiences.
+- Contributed to customer engagement features, personalized offers, and reward experiences.
+
+**AI & Retail Intelligence Ecosystem**
+- **Behavision** — Customer movement and footfall intelligence.
+- **SpendSense** — Spending patterns and purchase intelligence.
+- **Dyscount** — Personalized discount intelligence.
+- **Identiq** — Customer identity, loyalty, and engagement intelligence.
+
+**Full-Stack Engineering**
+- Worked with React, Next.js, and TypeScript application architecture.
+- Contributed to frontend architecture, authentication, session management, and protected routes.
+- Worked on backend API integration and application data workflows.
+
+**Focus:** Full-Stack Development · Merchant Dashboard · Customer Dashboard · Retail Technology · Digital Wallet · Loyalty Systems · AI-Powered Retail Intelligence
+
 ### Doormile Website
 
 A modern business website built with Next.js and TypeScript, featuring responsive layouts, GSAP-powered interactions, and Three.js visual experiences.
