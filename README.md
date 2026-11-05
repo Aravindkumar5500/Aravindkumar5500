@@ -107,6 +107,23 @@ I'm a software developer who enjoys building products across the stack — from 
   </tr>
 </table>
 
+## Independent Projects & Public Repositories
+
+Alongside my product work, I build and maintain personal projects to explore desktop development, AI applications, and full-stack engineering.
+
+| Project | What it demonstrates |
+| --- | --- |
+| [Hana — Floating macOS Companion](https://github.com/Aravindkumar5500/hana-floating) | Tauri 2, React, TypeScript, Rust, custom character animation, reminders, and native macOS window integration |
+| [Chatbot Memory](https://github.com/Aravindkumar5500/chatbot-memory) | React chat UI, Express APIs, MongoDB conversation history and knowledge search, Groq integration, and MCP tools |
+| [Developer Portfolio](https://github.com/Aravindkumar5500/portfolio-app) · [Live site](https://portfolio-app-swart-eta.vercel.app) | React, Tailwind CSS, Framer Motion, and responsive portfolio design |
+| [Job Board](https://github.com/Aravindkumar5500/job-board) · [Backend](https://github.com/Aravindkumar5500/Job-board-backend) · [Live site](https://job-board-black-two.vercel.app) | React/Vite frontend, Express API, MongoDB, and job listing workflows |
+| [Appointment Calendar](https://github.com/Aravindkumar5500/appointment-calendar) · [Live demo](https://appointment-calendar-ebon.vercel.app) | React calendar UI, appointment CRUD, localStorage persistence, and responsive layouts |
+| [Authentication API](https://github.com/Aravindkumar5500/valid-auth-backend) | Express, MongoDB, bcrypt password hashing, JWT authentication, and email OTP password reset |
+
+*Some repositories are learning prototypes. Their READMEs describe their current scope and known limitations.*
+
+---
+
 ---
 
 ## Current Learning
